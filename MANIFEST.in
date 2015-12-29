@@ -1,0 +1,3 @@
+recursive-include WorkingPython/templates *
+recursive-exclude WorkingPython/templates *.pyc
+recursive-exclude WorkingPython *.pyc
